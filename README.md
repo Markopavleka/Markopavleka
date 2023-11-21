@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marko</h1>
 <h3 align="center">A passionate full-stack developer with a focus on frontend, based in Vienna, Austria.</h3>
 
+-  🎓 I'm a graduate of the UpLeveled Full Stack Web Development Bootcamp.
+-  
 - 📚 Next Learning Goal: **Python**
 
 - 📫 How to reach me **markopavleka@gmx.at**
