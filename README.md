@@ -3,15 +3,15 @@
 
 -  🎓 I'm a graduate of the UpLeveled **Full Stack Web Development Bootcamp**.
   
-- 📚 Next Learning Goal: **Python**
+-  📚 Next Learning Goal: **Python**
 
-- 📫 How to reach me **markopavleka@gmx.at**
+-  📫 How to reach me **markopavleka@gmx.at**
 
-- 🧗Recently started climbing.
+-  🧗 Recently started climbing.
 
-- 🍣 I love sushi!
+-  🍣 I love sushi!
 
-- 🧊 I can solve the Rubik's Cube in under 2 minutes.
+-  🧊 I can solve the Rubik's Cube in under 2 minutes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
