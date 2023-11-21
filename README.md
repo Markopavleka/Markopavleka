@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **markopavleka@gmx.at**
 
-- 🧗Recently started climbing
+- 🧗Recently started climbing.
 
 - 🍣 I love sushi!
 
