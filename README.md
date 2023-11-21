@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Marko</h1>
 <h3 align="center">A passionate full-stack developer with a focus on frontend, based in Vienna, Austria.</h3>
 
--  🎓 I'm a graduate of the UpLeveled Full Stack Web Development Bootcamp.
--  
+-  🎓 I'm a graduate of the UpLeveled **Full Stack Web Development Bootcamp**.
+  
 - 📚 Next Learning Goal: **Python**
 
 - 📫 How to reach me **markopavleka@gmx.at**
 
-- 🧊 Fun fact **I can solve the Rubik's Cube in under 2 minutes.**
+- 🧗Recently started climbing
+
+- 🍣 I love sushi!
+
+- 🧊 I can solve the Rubik's Cube in under 2 minutes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
